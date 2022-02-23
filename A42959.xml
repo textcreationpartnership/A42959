@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The scurrilous scribler dissected: or, A word in William Lilly's ear concerning his reputation, which he complains is injured by J.G. that ungrateful scorpionist, as he the said Lilly scurrilously terms him.</title>
+            <author>Gadbury, John, 1627-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42959</idno>
+            <idno type="STC">Wing G97C</idno>
+            <idno type="STC">ESTC R219851</idno>
+            <idno type="EEBO-CITATION">99831298</idno>
+            <idno type="PROQUEST">99831298</idno>
+            <idno type="VID">35761</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35761)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2049:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The scurrilous scribler dissected: or, A word in William Lilly's ear concerning his reputation, which he complains is injured by J.G. that ungrateful scorpionist, as he the said Lilly scurrilously terms him.</title>
+                  <author>Gadbury, John, 1627-1704.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>J.G. = John Gadbury.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilly, William, 1602-1681 --  Early works to 1800.</term>
+               <term>Libel and slander --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:35761:1" rendition="simple:additions"/>
+            <head>THE SCURRILOUS SCRIBLER DISSECTED OR, A Word in <hi>WILLIAM LILLY</hi>'s Ear, concerning his REPUTATION, which he complains is injured by <hi>J.G.</hi> that <hi>Ungratefull Scorpionist,</hi> as he the ſaid <hi>LILLY</hi> Scurrilouſly terms him.</head>
+            <p>THat Mr. <hi>Lilly</hi> may be convinced J.G. hath not diſtain'd his Reputation at all, let him call to mind what his Repute is, and what Characters he ſtand<g ref="char:EOLhyphen"/>eth under to the World, by the verdicts of ſeveral Learned Men in Print, and to this day unanſwered, and I conceive he'll be of another opinion.</p>
+            <list>
+               <item>1. Mr. <hi>Wharton,</hi> a Man of Learning and Loyalty, in his Alm. 1648. writes—Lilly <hi>is a Cheat, and a-Cheat he will make him appear to be.—That he is an im<g ref="char:EOLhyphen"/>pudent deceitful colloguing Quack—and an Incendiary between the King and his People, &amp;c.</hi> with much more of the ſame ſtamp, in ſundry other his Works.</item>
+               <item>2. Mr. <hi>Gataker,</hi> a Man of great Learning, &amp;c in his vindication of the Annotations on <hi>Ier.</hi> 10.2. terms <hi>W. L.</hi> A <hi>grand Impoſtor</hi>; and in p.71. <hi>A palpable Lyar, and fraudulent Coyner of Fictions and Fables.</hi> P.73. <hi>A baſe Cheater—and that his</hi> Merlins <hi>are not ſo much Aſtrological Predictions, as Satyrs and Paſquils to play on whom he pleaſeth.</hi>
+               </item>
+               <item>3. The ſame Mr. <hi>Gataker,</hi> in Diſcourſe Apologetical, terms <hi>Lilly, a ſhameleſs creature; one that knows not how to Reaſon, but to Rail only.</hi> P.6. <hi>A Rayler.</hi> P.10. Lilly's <hi>words are no ſlander, he is ſo well known to be a moſt notorious. Lyar and one that regards not what he ſaith.</hi> P. 12. A <hi>Calumniator and Sycophant.</hi> P. 27. A <hi>Tra<g ref="char:EOLhyphen"/>ducer.</hi> P.53. A <hi>lying Varlet, and a Brother of ſlanderous alumnies.</hi> P.54. Lilly <hi>is of a murtherous mind and ſpirit, in exciting to a general Maſſacre of the Clergy.</hi> Cum<g ref="char:EOLhyphen"/>multis aliis, &amp;c.</item>
+               <item>4. Mr. <hi>Iohnſon,</hi> in <hi>Anti-Merlinus,</hi> writes,—<q>All know <hi>Merlinus Anglicus</hi> (i.e. <hi>W.L.</hi>) to be a falſe Prophet,—and one that hath ſold himſelf to work wic<g ref="char:EOLhyphen"/>kedneſs.—That his Predictions are ridiculous Pieces, ſo full of Follies and Fooleries, Contradictions and Lyes, that an Artiſt would bluſh to own them.—And that he doth in them out-lie, if it be poſſible, the Devil himſelf, the Father of lyes:</q> With abundance more of the ſame kind.</item>
+            </list>
+            <p>Now I would gladly know of <hi>W. L.</hi> whether I. <hi>G.</hi> hath Ungrateful Scorpioniſt, hath ſaid more, or yet ſo much, againſt his the ſaid <hi>W. L</hi>'s pretended Reputation, as is here produced.—To be plain, J. G. hath not medled with <hi>W. L</hi>'s Reputation, but his Actions and Expreſſions; thoſe being everywhere to be found, without his Reputation (unleſs he mean an ill one) to keep them company. But I trifle to no purpoſe with a profeſſed Calumniator, and will therefore leave <hi>W. L.</hi> to ſeek his Reputation where he pleaſes.</p>
+            <div type="part">
+               <head>Only, For Information:</head>
+               <p>Angry <hi>W. L.</hi> may underſtand, That the Queſtion in diſpute between him and J. G. was not, Whether ſome Men born under <hi>Scorpio</hi> have been ill, or done ill, or come to ill ends? But whether any man born under <hi>Scorpio</hi> was a wicked perſon for his being ſo born?—And if <hi>VV.L.</hi> or any for him, Will undertake to prove, as well as aſſert it, <hi>I.G.</hi> is not obſtinate, but will be ready and willing to recant his Defence of <hi>Scorpio,</hi> as he hath liberally more then once promiſed in Print to perform.—But would <hi>VV.L.</hi> or his <hi>Proctor,</hi> (the <hi>Newgate</hi>-Pamphleteer, as I have been told he is) have <hi>I.G.</hi> to retract the Truth he hath ſo fully defended, becauſe they call it an Error? A Turk with as good Reaſon as this, may oblige me to renounce my Religion.</p>
+               <p>VVhat if ſome Aſtrologers have called <hi>Scorpio</hi> a Sign of Falſity, &amp;c and others that have otherwiſe abuſed that glorious Sign, and together therewith contradicted themſelves, as <hi>Bonatus, &amp;c as I. G.</hi> hath remembred the world of, and diſtinguiſh'd fairly upon ſuch their Dealing? Muſt ſuch Authorities paſs for current Coyn with <hi>VV. L.</hi> and his Party?—It may ſo, if they pleaſe. But <hi>I. G.</hi> as aware very well of ſuch objections, tells them plainly, in p.11. of his Defence of <hi>Scorpio,</hi> that there have been Rebels againſt Heaven before W.L's days, and he doubts there will be ſo, vvhen VV.L. ſhall be no more. But <hi>I.G.</hi> denies that any of thoſe Rebels againſt Heaven have proved ought of ill againſt <hi>Scorpio</hi> : Nay, VV.L. himſelf hath formerly aſſerted, That <hi>Scor<g ref="char:EOLhyphen"/>pio</hi> is not ſo bad, as now he and his Advocates render it : Read J.G. in Defence of <hi>Scorpio,</hi> p. 62 and p. 141. where W.L's own words to this purpoſe are quoted. And what if VV.L. contradict himſelf, muſt J. G. be chargable for it ? But VV.L's Advocate (that Mercenary but Nameleſs Varlet) as aſha<g ref="char:EOLhyphen"/>med of his Clients Aſſertion, as well indeed he may, Would now crave grains of allowance, and prays that VV.L. may be underſtood in an Aſtrologi<g ref="char:EOLhyphen"/>cal ſenſe only : And why could not VV.L. have prayed this before ? it would never have been denied him.</p>
+               <p>As for W.L's former Charge of Ingratitude, urged againſt J.G. and this Sycophant's, his Advocate's later Charge of the ſame ſtamp, Let Truth it ſelf be witneſs herein if W.L. and this wicked fellovv both, be not egregious Calumniators! For vvhen J.G. taxed W.L. for thus terming him, <hi>Anno</hi> 1660. before Mr. <hi>E. Carrent,</hi> then Adjutant General of the City of <hi>London,</hi> W.L. was then pleaſed to deny his vvords, and proteſted that J. G. vvas to him the moſt Grateful man in the world. And J.G. hath never dealt with W.L. ſince, except in defending himſelf from his unworthy provocations.</p>
+               <p>As to W.L. his grievance, that J.G. hath Printed him a Plagiary, J.G. will abide by the Charge, and affirms it to be good and true : And for proof thereof, refers to Mr. <hi>Greſham</hi>'s Manuſcript of a Conjunction of <hi>Saturn</hi> and <hi>Jupiter,</hi> now in the hands of Mr. Aſhmole, in which Manuſcript, by Mr. <hi>Aſh<g ref="char:EOLhyphen"/>moles</hi> favour, J.G. read ſundry Paſſages, that W.L. hath Printed in his Prophetick <hi>Merlin</hi>; as he did read formerly, when the ſaid Manuſcript was in the hands of Dr. <hi>N. Fisk.</hi>—But how would W.L. define a Plagiary, if to Rob a worthy Author, and conceal his Name, be not to be one ? But this is not the only time, (nor Mr. <hi>Greſham</hi> the only man with whom) W. L. hath plaid the Plagiary.</p>
+               <p>For the Story of the Gardiners Daughter, vvhich W.L's lying Advocate makes a ſcandalous noiſe withal, I.G. deſires him to ſpeak plainly, and not in Riddles: for he knoweth nothing that can countenance any ſuch bold falſhoods. Nor doth he remember that ever he had difference with any more than two vvomen in all his life; the one vvas a <hi>Lady</hi> (ſo called) that having been Ruinous to many Families where ſhe had lodged, he juſtly denied to enter<g ref="char:EOLhyphen"/>tain her into his Houſe: The other vvas a Gentlewoman, that he refuſed to lend ten Pounds unto, as not knowing hovv to come by it again. And theſe things, and nought elſe that I.G. knovveth of, begat their prejudice and diſeſteem tovvards him. VVhat ſhall I ſay? VV. <hi>Lilly</hi> and his Advocate, are <hi>Lords,</hi> Lieutenants over their own <hi>Lyes</hi> and Scandals, but the Devil is the Captain-General and Creator of them.</p>
+               <p>And whereas W. L. as frequently as fooliſhly, twits I. G. with his <hi>quondam</hi> Profeſſion and Condition, I.G. eſteems it no diſparagement at all: For the lower his Education hath been, the larger hath been his pains to qualifie him into a capacity for the reception of W.L's poyſonous Envy.—Beſides, I.G. hath read in <hi>Merlini Anglici Errata,</hi> that W.L. vvas a Taylor, [and W.L. confeſſes that he vvas a Footboy to one G.W. an Attorney] and likes him never the vvorſe for for that; but wiſhes, ſo much Friend he is to W.L. that he had been a Taylor or Footboy ſtill, ſo he had ſcaped being Author of that Treaſonable Pam<g ref="char:EOLhyphen"/>phlet called <hi>Monarchy or no Monarchy</hi>: which though he have obtain'd a Pardon for in this vvorld, I. G. is doubtful that he will never get one in the world to come, without GOD's infinite Mercy.—But, confident W.L. notwithſtanding his Aſtrology [by which he pretends to teach the way of Prophecy] yet retains ſo much of his Stitching-Skill, as to make a Taylors Bill in mood and figure. Howbeit, I would adviſe him for the future, that he venture not on ſuch broad-fac'd Impudence, as to forge other mens Names unto any of his malicious Inventions; but rather ſet his own unto them, for the better ſecu<g ref="char:EOLhyphen"/>rity of his Ragged and [almoſt] worn out Reputation.</p>
+               <p>Finally I. G. doth expect, that if any pretend to reply upon him, that they be not aſhamed of their Name: For vvhy ſhould any man be bound to combate the Air, or play, at Cudgels vvith the Clouds? And if W. L. be not now ſatisfied, I ſhall adviſe him to try <hi>Reginald Scots</hi> Charm againſt the <hi>Scor<g ref="char:EOLhyphen"/>pion,</hi> in <hi>Lib.</hi> XII. <hi>Cap.</hi> XIV. which is this : <hi>If any one be bitten of a Scorpion, let him call an Aſs to him, and tell him the Tale in his Ear, and it cures him.</hi>—If W.L. vvant the Animal called an Aſs, let him vvhiſper the Story into that Varlets Ear who hath pretended to Anſvver J.G's <hi>Obſequium Rationabile,</hi> and that vvill work the Effect as exactly.</p>
+               <q>
+                  <hi>Nature, or the Heavens, never obligeth us to any Vice.</hi> 
+                  <bibl>Seneca.</bibl>
+               </q>
+            </div>
+            <div type="postscript">
+               <head>POST-SCRIPT.</head>
+               <p>I Had almoſt forgot, that <hi>W.L.</hi> moſt idly complains, That <hi>J.G. hath abuſed all the Younger Sort of Aſtrologers,</hi> that he may, by ſuch a Crafty Artifice get them all of his ſide, to vote for him againſt <hi>J.G.</hi> upon occaſion. But wherein <hi>J.G.</hi> hath abuſed any <hi>Artiſt</hi> at all, <hi>Younger or Elder, W. L.</hi> is no more able to <hi>prove,</hi> than that <hi>J.G. hath contradicted all Antiquity about the Significations of Scorpio.</hi>—Both notorious <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſhoods! and only fit for <hi>W. L.</hi> to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ather.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
